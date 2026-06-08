@@ -20,23 +20,18 @@ Em desenvolvimento
 - Análise de risco de burnout
 
 ## Tecnologias
-- Java
-- Spring Boot
-- Lombok
-  
-## Objetivo Científico
-
-A proposta futura é transformar o sistema em uma ferramenta capaz de apoiar pesquisas acadêmicas relacionadas à saúde mental estudantil, utilizando dados coletados de forma ética e respeitando a privacidade dos usuários.
-
-O projeto busca explorar a relação entre hábitos de estudo, desempenho acadêmico e indicadores de esgotamento emocional, contribuindo para estudos sobre prevenção do burnout em ambientes educacionais.
-
-## Tecnologias Utilizadas
 
 * Java
 * Spring Boot
 * Maven
 * Lombok
 * Programação Orientada a Objetos (POO)
+  
+## Objetivo Científico
+
+A proposta futura é transformar o sistema em uma ferramenta capaz de apoiar pesquisas acadêmicas relacionadas à saúde mental estudantil, utilizando dados coletados de forma ética e respeitando a privacidade dos usuários.
+
+O projeto busca explorar a relação entre hábitos de estudo, desempenho acadêmico e indicadores de esgotamento emocional, contribuindo para estudos sobre prevenção do burnout em ambientes educacionais.
 
 ## Planejamento Futuro
 
