@@ -9,8 +9,6 @@ A aplicação analisa informações relacionadas à rotina de estudos, desempenh
 O projeto está sendo desenvolvido utilizando Java, Programação Orientada a Objetos (POO) e Spring Boot, servindo também como estudo prático de arquitetura em camadas (Controller, Service e Repository).
 
 ## Status do Projeto
-
-## Status do Projeto
 Em desenvolvimento
 
 ## Funcionalidades
